@@ -1,6 +1,6 @@
 import React from 'react';
 import cbse from '../../../assets/Files/Merged CBSE.pdf';
-import others from '../../../assets/Files/MIS Annual Calendar.pdf';
+import others from '../../../assets/Files/Annual Calendar 2025-26.pdf';
 
 const Links = () => {
   const handleLinkClick = (url) => {
